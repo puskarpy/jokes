@@ -69,12 +69,12 @@ jokes
 ```
 Screenshots
 
-Desktop View
+**Desktop View**
 ![Desktop Interface](./desktop.png)
 
 
-Mobile View
-
+**Mobile View**
+![Mobile Interface](./mobile.jpeg)
 
 
 ## API Reference
